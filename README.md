@@ -1,1 +1,2 @@
 # odin-recipes
+Esta página será un modelo de lo que Sunrise Language School puede llegar a convertirse. Aspiro que, con el progreso del tiempo, este proyecto me permita aprender y familiarizarme con el uso de Git, HTML y CSS.
